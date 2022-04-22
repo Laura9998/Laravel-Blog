@@ -1,0 +1,16 @@
+#product .col-lg-12 {
+    margin-top: 3%;
+}
+#product h2 {
+    margin-bottom: 3%;
+}
+#product .btn-success {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+#product .btn-success:hover {
+    color: black;
+    background-color: #fff;
+    border-color: black;
+}

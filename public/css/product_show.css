@@ -1,0 +1,12 @@
+#show .row {
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: 13%;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 25%;
+    justify-content: center;
+    box-shadow:4px 4px 5px rgba(214, 199, 199, 0.3), -4px -4px 5px rgba(0, 0, 0, 0.1), 10px 40px 40px rgba(0, 0, 0, 0.1);
+}
+#show .col-lg-12 {
+    margin-top: 3%; 
+}
